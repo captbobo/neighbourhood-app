@@ -1,10 +1,27 @@
+# Neighbourhood App
+This project was made as a part of Udacity's Front-End Nanodegree with Google Scholarship. This is the last project in the Nanodegree.
+
+## packages
+create-react-app
+google-maps-react
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`  
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
